@@ -1,0 +1,8 @@
+{
+  "ESHost": "127.0.0.1",
+  "ESPort": "9200",
+  "ChunksDefinitionFile": "ChunksDefinitionFile.json",
+  "ESIndex": "telemetry",
+  "FilterFile" : "filter.json",
+  "EnrichFile" : "enrich.json"
+}
