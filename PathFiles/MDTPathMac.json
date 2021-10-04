@@ -1,0 +1,34 @@
+{
+  "PathOptions": {
+    "IgnoreTail": true
+  },
+  "PathData":[
+    {
+      "Node": [
+        {
+          "NodeName": "data",
+          "ToDive": false,
+          "ToCombine": false
+        }
+      ]
+    },
+    {
+      "Node": [
+        {
+          "NodeName": "list",
+          "ToDive": false,
+          "ToCombine": false
+        }
+      ]
+    },
+    {
+      "Node": [
+        {
+          "NodeName": "value",
+          "ToDive": false,
+          "ToCombine": false
+        }
+      ]
+    }
+  ]
+}
