@@ -20,6 +20,15 @@
           "ToCombine": false
         }
       ]
+    },
+    {
+      "Node": [
+        {
+          "NodeName": "value",
+          "ToDive": false,
+          "ToCombine": false
+        }
+      ]
     }
   ]
 }
